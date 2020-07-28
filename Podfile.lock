@@ -1,0 +1,26 @@
+PODS:
+  - CocoaLumberjack (3.6.1):
+    - CocoaLumberjack/Core (= 3.6.1)
+  - CocoaLumberjack/Core (3.6.1)
+  - IconFont (0.0.2)
+  - SVGKit (2.1.1):
+    - CocoaLumberjack (~> 3.0)
+
+DEPENDENCIES:
+  - IconFont (~> 0.0.2)
+  - SVGKit
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - IconFont
+    - SVGKit
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: b17ae15142558d08bbacf69775fa10c4abbebcc9
+  IconFont: 2ea71fd37ea03acdb6025050dd36318de9fa37d9
+  SVGKit: 652cdf7bef8bec8564d04a8511d3ab50c7595fac
+
+PODFILE CHECKSUM: e70282d68bb21c110ffffa62ceb70ec0440365a0
+
+COCOAPODS: 1.8.4
